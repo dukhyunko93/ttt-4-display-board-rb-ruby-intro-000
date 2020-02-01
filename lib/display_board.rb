@@ -1,2 +1,9 @@
+def display_board(board)
+  puts"   |   |   
+       -----------
+          |   |   
+       -----------
+          |   |   "
 board = [" "," "," "," "," "," "," "," "," "]
-display_board(board)
+end
+
