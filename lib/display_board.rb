@@ -1,9 +1,9 @@
 def display_board(board)
-  puts "    |   |   
+  puts "    |   |
          -----------
-            | X |   
+            | X |
          -----------
             |   |   "
           end
 # out the current state.
-display_board
+display_board(board)
