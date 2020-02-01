@@ -1,9 +1,2 @@
-def display_board(board)
-  puts "    |   |
-         -----------
-            | X |
-         -----------
-            |   |   "
-          end
-# out the current state.
+board = [" "," "," "," "," "," "," "," "," "]
 display_board(board)
